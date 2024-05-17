@@ -94,7 +94,8 @@ System.out.println("\n error: incorrect digital signature\n ");
 }
 
 ## OUTPUT:
-![Screenshot 2024-05-17 105246](https://github.com/nandhu6523/EX.-NO-3-IMPLEMENTATION-OF-DIGITAL-SIGNATURE-STANDARD/assets/123856724/160b4130-3fec-4020-8376-cd489b977552)
+  ![Screenshot 2024-05-17 105246](https://github.com/nandhu6523/EX.-NO-3-IMPLEMENTATION-OF-DIGITAL-SIGNATURE-STANDARD/assets/123856724/9cb29ddf-1309-4106-9527-bb4632693096)
+
 
 
 ## RESULT:
